@@ -4,10 +4,10 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ### 🖥️ Estou focado em: 
 <div style="display: inline">
     &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />" &nbsp;&nbsp;
+    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />"&nbsp;&nbsp;
 </div>
 
 ##
