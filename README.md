@@ -20,7 +20,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ##
 
 ### ⚡ Status:
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/aleribeiro0209/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=aleribeiro0209&layout=compact)](https://github.com/aleribeiro0209/github-readme-stats)
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=aleribeiro0209&show_icons=true)
 
 
