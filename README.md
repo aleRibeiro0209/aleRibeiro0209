@@ -22,7 +22,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ### ⚡ Status:
 <div>
     <a href="https://github.com/aleribeiro0209">
-    <img loading="lazy" wigth="360em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleribeiro0209&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleribeiro0209&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=aleribeiro0209&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
 
