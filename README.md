@@ -1,7 +1,7 @@
 ## Oi, Alexandre Ribeiro aqui👋
 Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma paixão pela criação de soluções inovadoras e impactantes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Santana de Parnaíba, buscando constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas.
 
-### 🖥️ Estou focado em: 
+### 🖥️ As tecnologias que conheço são: 
 <div style="display: inline">
     &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;
