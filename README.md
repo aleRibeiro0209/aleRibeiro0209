@@ -8,7 +8,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
     &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>&nbsp;&nbsp;&nbsp;
      &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>&nbsp;&nbsp;
+    &nbsp;&nbsp;<img width="50px" src="https://www.svgrepo.com/show/349474/php.svg"/>&nbsp;&nbsp;
 </div>
 
 ##
