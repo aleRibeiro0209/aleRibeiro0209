@@ -1,4 +1,4 @@
-## Oi, Alexandre Ribeiro aqui👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Oi%2C+Alexandre+Ribeiro+aqui%F0%9F%91%8B)](https://git.io/typing-svg)
 Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma paixão pela criação de soluções inovadoras e impactantes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Santana de Parnaíba, buscando constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas.
 
 ### 🖥️ As tecnologias que conheço são: 
