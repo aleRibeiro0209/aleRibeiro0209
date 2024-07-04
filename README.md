@@ -14,9 +14,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ##
 
 ### 📫 Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/alexandre-ribeiro0209"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-&nbsp;<a href="https://www.instagram.com/ale_rs4n/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;
-&nbsp;<a href="mailto:alexandreribeiro0209@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,bootstrap,php,mysql&theme=dark)](https://skillicons.dev)
 
 ##
 
