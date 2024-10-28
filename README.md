@@ -2,9 +2,9 @@
 Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma paixão pela criação de soluções inovadoras e impactantes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Santana de Parnaíba, buscando constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas.
 
 ### 🖥️ As tecnologias que conheço são: 
-<p align="center">
+<div style="width: 100%; display:flex; justify-content: center;">
     [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,bootstrap,php,laravel,mysql,c,git&theme=dark)](https://skillicons.dev)
-</p>
+</div>
 
 ##
 
