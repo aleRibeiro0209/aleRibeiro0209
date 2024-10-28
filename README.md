@@ -11,9 +11,23 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ##
 
 ### 📫 Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/alexandre-ribeiro0209"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-&nbsp;<a href="https://www.instagram.com/ale_rs4n/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> &nbsp;
-&nbsp;<a href="mailto:alexandreribeiro0209@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp;
+<div align="center">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alexandre-ribeiro0209" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.instagram.com/ale_rs4n/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a> 
+  &nbsp;
+  &nbsp;
+  <a href="mailto:alexandreribeiro0209@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  </a>
+  &nbsp;
+</div>
 
 ##
 
