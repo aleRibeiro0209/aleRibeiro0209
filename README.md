@@ -4,7 +4,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ### 🖥️ As tecnologias que conheço são: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,bootstrap,php,laravel,mysql,c,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,next,tailwind,bootstrap,php,laravel,mysql,pgsql,c,git&theme=dark" />
   </a>
 </p>
 
