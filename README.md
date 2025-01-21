@@ -4,25 +4,19 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 ### 🖥️ Linguagens e ferramentas:
 
 #### Front-end
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,sass&theme=dark" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,tailwind,bootstrap,sass&theme=dark" />
+</a>
 
 #### Back-end
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres&theme=dark" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres&theme=dark" />
+</a>
 
 #### Ferramentas
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,vercel&theme=dark" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel&theme=dark" />
+</a>
 
 ### 📫 Você também me encontra em:
 <div align="center">
