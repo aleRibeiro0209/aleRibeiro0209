@@ -10,7 +10,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 
 #### Back-end
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,mysql,postgres&theme=dark" />
 </a>
 
 #### Ferramentas
