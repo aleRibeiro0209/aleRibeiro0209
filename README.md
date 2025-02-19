@@ -15,7 +15,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 
 #### Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel,postman,expo&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel,postman&theme=dark" />
 </a>
 
 ### 📫 Você também me encontra em:
