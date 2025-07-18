@@ -5,7 +5,7 @@ Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma pa
 
 #### Front-end
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,vite,tailwind,bootstrap,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,vite,tailwind,bootstrap,sass,styledcomponents&theme=dark" />
 </a>
 
 #### Back-end
