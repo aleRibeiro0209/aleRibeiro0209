@@ -5,7 +5,7 @@ Desenvolvedor Full Stack Júnior com paixão por criar soluções tecnológicas 
 
 #### Front-end
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,vite,tailwind,bootstrap,sass,styledcomponents&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,vite,tailwind,bootstrap,sass,styledcomponents,materialui&theme=dark" />
 </a>
 
 #### Back-end
@@ -15,7 +15,7 @@ Desenvolvedor Full Stack Júnior com paixão por criar soluções tecnológicas 
 
 #### Ferramentas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel,postman,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel,postman,docker,aws&theme=dark" />
 </a>
 
 ### 📫 Você também me encontra em:
