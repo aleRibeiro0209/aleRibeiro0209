@@ -1,5 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Oi%2C+Alexandre+Ribeiro+aqui%F0%9F%91%8B)](https://git.io/typing-svg)
-Sou um entusiasta de tecnologia e aspirante a Desenvolvedor FullStack com uma paixão pela criação de soluções inovadoras e impactantes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Santana de Parnaíba, buscando constantemente expandir meu conhecimento e aprimorar minhas habilidades técnicas.
+Desenvolvedor Full Stack Júnior com paixão por criar soluções tecnológicas inovadoras e funcionais. Cursando Análise e Desenvolvimento de Sistemas na Fatec Santana de Parnaíba, estou sempre em busca de novos aprendizados e desafios que impulsionem meu crescimento técnico e profissional. Acredito no poder da tecnologia para transformar ideias em impacto real.
 
 ### 🖥️ Linguagens e ferramentas:
 
