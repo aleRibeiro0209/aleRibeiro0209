@@ -10,7 +10,7 @@ Desenvolvedor Full Stack Júnior com paixão por criar soluções tecnológicas 
 
 #### Back-end
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,prisma,php,laravel,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,prisma,php,laravel,mysql,postgres,py,fastapi&theme=dark" />
 </a>
 
 #### Ferramentas
